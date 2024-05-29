@@ -33,6 +33,19 @@ To install the project, follow these steps:
     mvn clean install
     ```
 
+## Run
+To run the project, follow these steps:
+
+1. Once the build is successful, you can run the Spring Boot application using the following Maven command:
+    ```sh
+    mvn spring-boot:run
+    ```
+
+2. Once the application is running, you can access it through a web browser or make requests to its endpoints using tools like cURL or Postman. By default, the application will run on localhost at port 8080.
+    ```sh
+    localhost at port 8080
+    ```
+
 ## API Endpoints
 1. POST http://locahost:8080/notes: Create a new note.
 
