@@ -20,7 +20,7 @@ To install the project, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/BookStoreApp.git
+    git clone https://github.com/hohokampeople/note-app.git
     ```
 
 2. Navigate to the project directory:
